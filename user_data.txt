@@ -1,0 +1,8 @@
+Full Name: Juan
+Email: juan@gmail.com
+Password: @12345678J
+
+Full Name: Maria
+Email: m@gmail.com
+Password: @12345678J
+
